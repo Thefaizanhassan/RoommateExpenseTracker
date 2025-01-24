@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Public files that are auto-generated or not necessary
+*.log
+*.lock
+*.tmp
+
+# Testing files
+coverage/
+*.test.js
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependency lock file (if not needed for deployment)
+package-lock.json
+
+# System files
+.DS_Store
+Thumbs.db
