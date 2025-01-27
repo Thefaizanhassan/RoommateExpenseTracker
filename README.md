@@ -20,6 +20,7 @@ A web application to simplify expense sharing among roommates. The app tracks ex
   Install Yarn globally if preferred:  
   ```bash
   npm install --global yarn
+  ```
 
 ### Installation
 
