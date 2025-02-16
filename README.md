@@ -26,7 +26,7 @@ A web application to simplify expense sharing among roommates. The app tracks ex
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Thefaizanhassan/RoommateExpenseTracker.git
 cd roommate-expense-tracker
 ```
 
